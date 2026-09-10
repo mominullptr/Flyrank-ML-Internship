@@ -1,0 +1,14 @@
+{
+  "total_items_scored": 30000,
+  "top_score": 0.9412,
+  "median_score": 0.4429,
+  "min_score": 0.008,
+  "top_20_decay_rate": 0.3,
+  "top_50_decay_rate": 0.34,
+  "formula_weights": {
+    "visibility": 0.4,
+    "freshness": 0.3,
+    "position": 0.25,
+    "depth_gap": 0.05
+  }
+}
